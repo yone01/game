@@ -16,8 +16,10 @@ iframe {
     border-right:0; 
 	box-shadow:0 0 0; 
 	border-color:#ccc;
+  　float: right;
 }
 .stylish-input-group button{
     border:0;
     background:transparent;
+    float: right;
 }
